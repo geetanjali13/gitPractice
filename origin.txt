@@ -1,2 +1,2 @@
 origin
-pull from git to local
+pull from local to git
